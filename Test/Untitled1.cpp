@@ -12,7 +12,7 @@ class Page {
 int main()
 {
 	Page *page = nullptr;
-	cout<<page->page_id;
+	cout<<"ĞŞ¸ÄÒ»´Î";
 	return 0;
 }
 
